@@ -1,0 +1,7 @@
+# Day 8 – Learning Reflection
+
+The most difficult concept in this course was understanding system scalability, particularly how to handle high traffic and prevent two users from purchasing the same seat simultaneously. Initially, I found it challenging to understand how caching, load balancing, database transactions and horizontal scaling work together. I overcame this by studying practical examples, answering system design questions and breaking complex architectures into smaller components. Working on the TicketHub assignment also helped me understand why database transactions and unique constraints are essential for maintaining data consistency.
+
+Based on the feedback I received during my capstone experience, I would improve how I communicate and present my technical decisions. I want to explain the problems my application solves, how its components work together and the value it provides instead of concentrating mainly on listing the technologies used. I would also improve the documentation and testing of my projects to make them easier for other developers to understand and maintain.
+
+Next, I want to deepen my knowledge of full-stack development using React, Next.js and PostgreSQL. I also plan to study TypeScript, authentication, database optimization, API security and cloud deployment. My goal is to become a developer who can independently design, build, secure and deploy practical software solutions.
